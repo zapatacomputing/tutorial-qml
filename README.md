@@ -5,7 +5,7 @@ This tutorial contains three labs on Quantum Machine Learning for Generative Mod
 2. Lab 2: Entanglement Generator 
 3. Lab 3: Quantum Circuit Born Machine (QCBM) 
 
-For Lab 3, we have two helper scripts for utility functions (utils.py) and our classical optimizer (pso.py). Please make sure that these are in the same folder as the Lab 3 script in order to make sure that we can import functions from these scripts. 
+For Lab 3, we have two helper scripts for utility functions (utils.py) and our classical optimizer (pso.py). Please make sure these are in the same folder as the Lab 3 script in order to ensure that you can import functions from these scripts. 
 
 ## Installation 
 
