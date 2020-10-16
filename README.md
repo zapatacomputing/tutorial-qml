@@ -20,6 +20,7 @@ Installation Requirements:
 - Rigetti QVM 
 
 Installation Instructions: 
+
 If not already installed, please install at least Python Version 3.7. Instructions on installing Python can be found here: https://www.python.org/downloads/. Along with Python 3.7, please install the Python package NumPy. Instructions can be found here: https://numpy.org/install/. Please install the package random2 with instructions found here: https://pypi.org/project/random2/. Please install the package Matplotlib with instructions found here: https://pypi.org/project/matplotlib/. 
 
 If not already installed, please install Jupyter Notebook or Jupyter Lab prior to this workshop. Instructions on installing Jupyter can be found here: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html. 
