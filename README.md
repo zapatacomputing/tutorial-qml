@@ -1,9 +1,10 @@
-# Tutorial-ODSC-qml
+# Tutorial-qml
 
-This tutorial contains three labs on Quantum Machine Learning for Generative Modeling - to be completed within a lecture workshop for the Open Data Science Conference 2020. The three labs should be done in order: 
+This tutorial contains four labs on Quantum Machine Learning for Generative Modeling. The three labs should be done in order: 
 1. Lab 1: Fair and Biased Coin Toss
-2. Lab 2: Entanglement Generator 
-3. Lab 3: Quantum Circuit Born Machine (QCBM) 
+2. Lab 2: 2 Qubit entanglement Generator
+3. Lab 3: 4 Qubit entanglement Generator
+3. Lab 4: Quantum Circuit Born Machine (QCBM)
 
 For Lab 3, we have two helper scripts for utility functions (utils.py) and our classical optimizer (pso.py). Please make sure these are in the same folder as the Lab 3 script in order to ensure that you can import functions from these scripts. 
 
