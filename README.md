@@ -16,7 +16,7 @@ Installation Requirements:
 - Python Package random2
 - Python Package Matplotlib 
 - Jupyter Lab or Notebook 
-- PyQuil 
+- PyQuil **(Version 2.28.2)**
 - Quilc 
 - Rigetti QVM 
 
@@ -31,6 +31,9 @@ You can utilize the package manager 'pip' to install Jupyter Lab with 'pip insta
 The last thing you'll need to install is PyQuil. PyQuil is a Python library for quantum programming using Quil, the quantum instruction language developed at Rigetti Computing. Installation instructions can be found here: https://pyquil-docs.rigetti.com/en/stable/start.html. 
 
 PyQuil can be installed using 'pip install pyquil'. PyQuil, along with quilc, the QVM, and other libraries, make up what is called the Forest SDK. To make full use of pyQuil, you will need to additionally have installed quilc and the Quantum Virtual Machine (QVM). These can be downloaded together directly from here: https://qcs.rigetti.com/sdk-downloads. 
+
+*Note:* This lab only works with pyquil version 2.28.2. To install this, use the line
+```pip install pyquil==2.28.2```
 
 ## Give it a Try!
 
